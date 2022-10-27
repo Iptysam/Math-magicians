@@ -3,6 +3,7 @@
 # Math Magicians
 
 > You will set up the environment and tools needed to develop a React application.
+> You will develop a React component that will hold the core functionality: a calculator.
 
 
 ## Built With
@@ -14,7 +15,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://iptysam.github.io/Math-magicians/)
 
 
 ## Getting Started
