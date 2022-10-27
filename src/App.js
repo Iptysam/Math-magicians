@@ -1,5 +1,4 @@
 import React from 'react';
-import Calculator from './component/Calculator';
 import './index.css';
 
 class App extends React.PureComponent {
@@ -12,7 +11,6 @@ class App extends React.PureComponent {
     return (
       <div>
         <h1>Do your Calculations</h1>
-        <Calculator />
       </div>
     );
   }
