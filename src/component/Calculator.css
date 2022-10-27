@@ -10,8 +10,9 @@
   align-items: center;
 }
 
-.min-bar input {
+.min-bar {
   width: 92.5%;
+  height: 100%;
   border: none;
   color: #fff;
   padding: 10px;
