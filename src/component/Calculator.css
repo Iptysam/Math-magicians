@@ -1,0 +1,46 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.main {
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.min-bar input {
+  width: 92.5%;
+  border: none;
+  color: #fff;
+  padding: 10px;
+  text-align: right;
+  background: grey;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+button {
+  border: 0.0625rem solid #222;
+  padding: 0.625rem 1.25rem;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1.0625rem;
+}
+
+button:active {
+  background-color: #ccc;
+}
+
+.color {
+  background: orange;
+}
+
+.zero {
+  grid-column: 1/ span 2;
+}
