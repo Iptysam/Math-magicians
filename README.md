@@ -3,6 +3,7 @@
 # Math Magicians
 
 > You will set up the environment and tools needed to develop a React application.
+> You will develop a React component that will hold the core functionality: a calculator.
 
 
 ## Built With
