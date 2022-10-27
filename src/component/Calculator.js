@@ -5,7 +5,6 @@ import calculate from '../logic/calculate';
 class Calculator extends React.PureComponent {
   constructor(props) {
     super(props);
-    this.handleClick = this.handleClick.bind(this);
     this.state = {
       total: 0,
       next: null,
