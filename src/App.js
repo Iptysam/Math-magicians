@@ -1,5 +1,5 @@
 import React from 'react';
-import Calculator from './Component/component';
+import Calculator from './component/Calculator';
 import './index.css';
 
 class App extends React.PureComponent {
