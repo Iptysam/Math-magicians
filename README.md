@@ -26,17 +26,26 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- Html & CSS basics
+- Git & github
+- SSH key for github linked to git on local environment
 
 ### Setup
+- Click on the green button on the top right corner with the text code
+- Click on SSH
+- Copy the text that appears below 
+- Type "git clone" in your terminal and past the copied text next to "git clone" and press enter
 
 ### Install
+- Click on the green button on the top right corner with the text code
+- Click on "Download ZIP"
+- Extract the downloaded file locally
 
 ### Usage
-
-### Run tests
+- Create a calculator for daily calculations
 
 ### Deployment
-
+- Run `npm start` in an intergrated terminal in order to start a local live server.
 
 
 ## Authors
