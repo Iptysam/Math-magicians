@@ -5,6 +5,7 @@
 > You will set up the environment and tools needed to develop a React application.
 > You will develop a React component that will hold the core functionality: a calculator.
 > Add the logic needed to make the Calculator component you developed in the previous project actually work
+> Refactor the Calculator component you developed in the past projects. Instead of using class based components, you will use now hooks.
 
 
 ## Built With
