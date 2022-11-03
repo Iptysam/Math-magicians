@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for the navigation bar `] = ` <>
+    <Nav>
+      <NavMenu>
+        <NavLink to="src/component/Pages/Home.js" activeStyle>
+          Home
+        </NavLink>
+        <NavLink to="/component/Calculator" activeStyle>
+          Calculator
+        </NavLink>
+        <NavLink to="src/component/Pages/qoute.js" activeStyle>
+          Qoute
+        </NavLink>
+      </NavMenu>
+    </Nav>
+  </>`;
