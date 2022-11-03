@@ -1,17 +1,36 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Test for the navigation bar `] = ` <>
-    <Nav>
-      <NavMenu>
-        <NavLink to="src/component/Pages/Home.js" activeStyle>
-          Home
-        </NavLink>
-        <NavLink to="/component/Calculator" activeStyle>
-          Calculator
-        </NavLink>
-        <NavLink to="src/component/Pages/qoute.js" activeStyle>
-          Qoute
-        </NavLink>
-      </NavMenu>
-    </Nav>
-  </>`;
+exports[`It should render Navbar properly 1`] = `
+<nav
+  className="sc-bcXHqe iBArGn"
+>
+  <div
+    className="sc-hLBbgP kNEySP"
+  >
+    <a
+      activeStyle={true}
+      className="sc-gswNZR cMVdUT"
+      href="/src/component/Pages/Home.js"
+      onClick={[Function]}
+    >
+      Home
+    </a>
+    <a
+      activeStyle={true}
+      className="sc-gswNZR cMVdUT"
+      href="/component/Calculator"
+      onClick={[Function]}
+    >
+      Calculator
+    </a>
+    <a
+      activeStyle={true}
+      className="sc-gswNZR cMVdUT"
+      href="/src/component/Pages/qoute.js"
+      onClick={[Function]}
+    >
+      Qoute
+    </a>
+  </div>
+</nav>
+`;
