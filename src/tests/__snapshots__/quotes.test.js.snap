@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Check on quotes page It should properly render the quotes page 1`] = `
+<p
+  className="qoutes"
+>
+  Mathematics as an expression of the human mind reflects the active will, the contemplative reason, and the desire for aesthetic perfection. Its basic elements are logic and intuition, analysis and construction, generality and individuality.
+</p>
+`;
+
+exports[`It should properly render the quotes page 1`] = `
+<p
+  className="qoutes"
+>
+  Mathematics as an expression of the human mind reflects the active will, the contemplative reason, and the desire for aesthetic perfection. Its basic elements are logic and intuition, analysis and construction, generality and individuality.
+</p>
+`;
+
+exports[`Test for the  quotes page It should properly render the quotes page 1`] = `
+<p
+  className="qoutes"
+>
+  Mathematics as an expression of the human mind reflects the active will, the contemplative reason, and the desire for aesthetic perfection. Its basic elements are logic and intuition, analysis and construction, generality and individuality.
+</p>
+`;
+
+exports[`Test for the quotes page navigation`] = `<p className="qoutes">
+    Mathematics as an expression of the human mind reflects the active will,
+    the contemplative reason, and the desire for aesthetic perfection.
+    Its basic elements are logic and intuition, analysis and construction,
+    generality and individuality.
+  </p>`;

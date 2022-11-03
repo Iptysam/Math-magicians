@@ -8,6 +8,7 @@
 > Refactor the Calculator component you developed in the past projects. Instead of using class based components, you will use now hooks.
 > Create a full website for the Math magicians app, consisting of several pages and using the components you already created.
 > For every page, create a route
+> Write unit tests for the Math Magicians app, using the Jest and React Testing Library libraries
 
 
 ## Built With
